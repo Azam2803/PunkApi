@@ -3,7 +3,6 @@ const app = new Vue({
     data:{
         page:'1',
         perPage:'5',
-        // baseUrl:`https://api.punkapi.com/v2/beers?page=1&per_page=${this.perPage}`,
         baseUrl:'https://api.punkapi.com/v2/beers?page=1&per_page=5',
         totalItems: '325',
         totalPages: '65',
