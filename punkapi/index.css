@@ -141,3 +141,6 @@
   overflow: hidden;
 }
 
+.cursor-pointer{
+    cursor: pointer;
+}
